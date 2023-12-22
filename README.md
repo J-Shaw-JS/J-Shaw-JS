@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @J-Shaw-JS
+- 👀 I’m interested in Gaming, Cyber security, Web developement
+- 🌱 I’m currently learning Bachelor of Computer Science
